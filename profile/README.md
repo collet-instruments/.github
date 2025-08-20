@@ -4,7 +4,7 @@
 
 ## Products
 
-### MIDI2USB Converter
+### [MIDI2USB Converter](https://github.com/collet-instruments/MIDI2USB-Converter)
 - Open source MIDI2.0 controller for music production
 
 ## Contact

@@ -1,6 +1,6 @@
 # Collet Instruments
 
-![Company Logo](https://github.com/your-organization.png)
+![Company Logo](https://github.com/collet-instruments.png)
 
 ## Products
 
